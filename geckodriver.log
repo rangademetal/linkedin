@@ -80,3 +80,144 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1622478850235	Marionette	INFO	Listening on port 50644
 1622478850453	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1622487278023	geckodriver	INFO	Listening on 127.0.0.1:53615
+1622487281040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilecxJflz"
+1622487281638	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622487284501	Marionette	INFO	Listening on port 53623
+1622487284670	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1622487530408	Marionette	INFO	Stopped listening on port 53623
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+lRqKG"
+1622487364107	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622487366759	Marionette	INFO	Listening on port 53856
+1622487366845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622487529388	Marionette	INFO	Stopped listening on port 53856
+2487459479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofileD1TdHK"
+1622487459882	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622487462243	Marionette	INFO	Listening on port 53944
+1622487462613	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622487539898	Marionette	INFO	Stopped listening on port 53944
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilekMDBMr"
+1622487536805	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622487539390	Marionette	INFO	Listening on port 54018
+1622487539560	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8k73nzb71xd413wcy4boko39j, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bls6gykhv4is1bim9exxuyh6m, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6qqs3svdwghh67bk9swwukcqx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/da1968bnh9w1g7wc5s3wb96xo, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/eta79eqhd5jikwqd45mlu34x5, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1622488263182	Marionette	INFO	Stopped listening on port 54018
+le)"))
+1622487785769	Marionette	INFO	Listening on port 54156
+1622487786273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8k73nzb71xd413wcy4boko39j, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bls6gykhv4is1bim9exxuyh6m, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6qqs3svdwghh67bk9swwukcqx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/da1968bnh9w1g7wc5s3wb96xo, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1622488262885	Marionette	INFO	Stopped listening on port 54156
+2488246282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilenPyKnX"
+1622488246797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622488249564	Marionette	INFO	Listening on port 54261
+1622488249914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/avi2wei90kc5gps9qiqcn0e73, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8k73nzb71xd413wcy4boko39j, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bls6gykhv4is1bim9exxuyh6m, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6qqs3svdwghh67bk9swwukcqx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/da1968bnh9w1g7wc5s3wb96xo, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/eta79eqhd5jikwqd45mlu34x5, line 6: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8k73nzb71xd413wcy4boko39j, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/eta79eqhd5jikwqd45mlu34x5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/eta79eqhd5jikwqd45mlu34x5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6qqs3svdwghh67bk9swwukcqx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8k73nzb71xd413wcy4boko39j, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/eta79eqhd5jikwqd45mlu34x5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/eta79eqhd5jikwqd45mlu34x5, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6qqs3svdwghh67bk9swwukcqx, line 6: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8k73nzb71xd413wcy4boko39j, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bls6gykhv4is1bim9exxuyh6m, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6qqs3svdwghh67bk9swwukcqx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/da1968bnh9w1g7wc5s3wb96xo, line 6: unreachable code after return statement
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5ru1jxidocausm20a1d211aoy, line 6: unreachable code after return statement

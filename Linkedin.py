@@ -8,7 +8,12 @@ class Linkedin:
 		self.driver.get('https://www.linkedin.com/home')
 	def login(self):
 		button = self.driver.find_element_by_xpath('//*[@id="session_key"]')
-		button.send_keys(Secret.USERNAME)
+		button.send_keys(USERNAME)
+		print(USERNAME)
 		button = self.driver.find_element_by_xpath('//*[@id="session_password"]')
-		button.send_keys(Secret.PASSWORD)
-	
+		button.send_keys(PASSWORD)
+		print(PASSWORD)
+		button = self.driver.find_element_by_xpath('/html/body/main/section[1]/div[2]/form/button').click()
+	def hr(self):
+		self.driver.get('https://www.linkedin.com/jobs/search/?keywords=hr')
+		
