@@ -813,3 +813,175 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf
 JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+1622555821345	Marionette	INFO	Stopped listening on port 51342
+2555463354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofileIGjsxj"
+1622555463861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622555466737	Marionette	INFO	Listening on port 55472
+1622555466987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey1bwyhajzuzu9mri4cd5ervj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1622578483175	geckodriver	INFO	Listening on 127.0.0.1:64184
+1622578486183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilexvpRo9"
+1622578486916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622578490050	Marionette	INFO	Listening on port 64192
+1622578490312	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dqou6w4yjbtya506w6lnpj9u9, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+1622578785179	Marionette	INFO	Stopped listening on port 64192
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilegj64NI"
+1622578669277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622578671952	Marionette	INFO	Listening on port 64464
+1622578672010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/avi2wei90kc5gps9qiqcn0e73, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dqou6w4yjbtya506w6lnpj9u9, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+1622578785101	Marionette	INFO	Stopped listening on port 64464
+2578759351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofileBQiuEg"
+1622578759758	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622578762421	Marionette	INFO	Listening on port 64705
+1622578762490	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/avi2wei90kc5gps9qiqcn0e73, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dqou6w4yjbtya506w6lnpj9u9, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+1622578782600	Marionette	INFO	Stopped listening on port 64705
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622578800334	geckodriver	INFO	Listening on 127.0.0.1:64925
+1622578803347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilevXfmpI"
+1622578803725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622578805977	Marionette	INFO	Listening on port 64936
+1622578806480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dqou6w4yjbtya506w6lnpj9u9, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+1622578956636	Marionette	INFO	Stopped listening on port 64936
+1622578974695	geckodriver	INFO	Listening on 127.0.0.1:53769
+1622578977704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofileers5P8"
+1622578978108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622578980668	Marionette	INFO	Listening on port 53779
+1622578980840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/avi2wei90kc5gps9qiqcn0e73, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dqou6w4yjbtya506w6lnpj9u9, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+1622579009335	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622579010224	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622579011235	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622579012029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622579013017	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622579014252	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622579015410	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31

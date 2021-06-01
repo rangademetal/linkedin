@@ -27,6 +27,8 @@ class Linkedin:
 		return 25*(int(dummy)-1)
 		
 	def data_mining(self):
+		row = 1
+		col = 0
 		rnd = random.randint(10000,99999)
 		workbook = xlsxwriter.Workbook(f'{rnd}.xlsx')
 		worksheet = workbook.add_worksheet()
@@ -59,9 +61,12 @@ class Linkedin:
 			dict.append(aplicants)
 			dict.append(job_description)
 
-			res.append(dict)
-		return res
-
+			for i in dict:
+				worksheet.write(row, col, i)
+				col += 1
+			row += 1
+			col =0
+		workbook.close()
 	def next(self, total_jobs, jobs):
 		if total_jobs != jobs:
 			self.driver.get(f'https://www.linkedin.com/jobs/search/?keywords=hr&start={jobs}')
