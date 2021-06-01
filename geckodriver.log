@@ -379,3 +379,302 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf
 JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2310))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+1622537430090	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537430902	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537431800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537432742	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537433538	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537434711	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537435566	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537436445	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537437599	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537439209	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537440464	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537441500	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537442770	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537443849	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537446361	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537447806	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537448865	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537450356	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537451945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537453384	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622537454466	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1002))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child4/pagestyle27 (resource://devtools/server/actors/page-style.js:1002:5)", "resource://devtools/shared/protocol/Front.js", 358))
+1622548521377	geckodriver	INFO	Listening on 127.0.0.1:63393
+1622548524382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofile18sgPz"
+1622548525232	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622548528843	Marionette	INFO	Listening on port 63402
+1622548529130	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/avi2wei90kc5gps9qiqcn0e73, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey1bwyhajzuzu9mri4cd5ervj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+1622548991019	Marionette	INFO	Stopped listening on port 63402
+1622548998134	geckodriver	INFO	Listening on 127.0.0.1:50383
+1622549001145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofile9aQozi"
+1622549001645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622549004565	Marionette	INFO	Listening on port 63931
+1622549004771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/avi2wei90kc5gps9qiqcn0e73, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey1bwyhajzuzu9mri4cd5ervj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+[Parent 15800, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622550207049	Marionette	INFO	Stopped listening on port 63931
+round" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofileLBdl9C"
+1622550201473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622550204730	Marionette	INFO	Listening on port 53231
+1622550205108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey1bwyhajzuzu9mri4cd5ervj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+1622550367067	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550367971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550368769	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550370123	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550371851	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550372619	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550373391	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550374385	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550375985	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550376830	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1622550377691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+1622550564131	Marionette	INFO	Stopped listening on port 53231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilegC4VWo"
+1622550545162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622550548271	Marionette	INFO	Listening on port 57704
+1622550548792	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10544, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1622550564094	Marionette	INFO	Stopped listening on port 57704
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

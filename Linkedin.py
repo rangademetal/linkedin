@@ -43,8 +43,13 @@ class Linkedin:
 			dummy = self.driver.find_element_by_xpath('/html/body/div[8]/div[3]/div[3]/div/div/section[2]/div/div/div[1]/div/div[1]/ul/li[1]/div/ul/li[1]/span').text
 			print(dummy)
 			# number of aplications on the job
-			dummy = self.driver.find_element_by_xpath('/html/body/div[8]/div[3]/div[3]/div/div/section[2]/div/div/div[1]/div/div[1]/ul/li[1]/div/ul/li[2]/span')
+			dummy = self.driver.find_element_by_xpath('/html/body/div[8]/div[3]/div[3]/div/div/section[2]/div/div/div[1]/div/div[1]/ul/li[1]/div/ul/li[2]/span').text
 			print(dummy)
+	def next(self, total_jobs, jobs):
+		if total_jobs != jobs:
+			self.driver.get(f'https://www.linkedin.com/jobs/search/?keywords=hr&start={jobs}')
+
+
 
 			
 
