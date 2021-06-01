@@ -244,3 +244,116 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/5ru1jxidocausm20a1d211aoy
 JavaScript warning: https://static-exp1.licdn.com/sc/h/3ftdhg4pppya4orjywsz2wrfx, line 6: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/eta79eqhd5jikwqd45mlu34x5, line 6: unreachable code after return statement
 JavaScript error: , line 0: uncaught exception: Object
+1622526982097	geckodriver	INFO	Listening on 127.0.0.1:53098
+1622526985127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofileo5aXJG"
+1622526985763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622526988061	Marionette	INFO	Listening on port 53106
+1622526988310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622527706726	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey1bwyhajzuzu9mri4cd5ervj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+1622528754605	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd.js, line 6: Script terminated by timeout at:
+eg/<@https://www.googletagservices.com/activeview/js/current/osd.js:6:46696
+ag/<@https://www.googletagservices.com/activeview/js/current/osd.js:6:45426
+$f@https://www.googletagservices.com/activeview/js/current/osd.js:6:45319
+ag@https://www.googletagservices.com/activeview/js/current/osd.js:6:45407
+eg@https://www.googletagservices.com/activeview/js/current/osd.js:6:46194
+k.Ya@https://www.googletagservices.com/activeview/js/current/osd.js:6:49269
+Of@https://www.googletagservices.com/activeview/js/current/osd.js:6:42734
+bh@https://www.googletagservices.com/activeview/js/current/osd.js:6:58981
+Zg.prototype.j@https://www.googletagservices.com/activeview/js/current/osd.js:6:59542
+$g@https://www.googletagservices.com/activeview/js/current/osd.js:6:58675
+ei@https://www.googletagservices.com/activeview/js/current/osd.js:6:70936
+Yh@https://www.googletagservices.com/activeview/js/current/osd.js:6:70794
+k.Vb@https://www.googletagservices.com/activeview/js/current/osd.js:6:69978
+$h/<@https://www.googletagservices.com/activeview/js/current/osd.js:6:70210
+getNewBlocks@https://pagead2.googlesyndication.com/pagead/js/r20210524/r20190131/show_ads_impl_with_ama_fy2019.js?client=ca-pub-6330153051175486&plah=www.guru99.com&amaexp=1:113:226
+Tf@https://www.googletagservices.com/activeview/js/current/osd.js:6:44395
+$h@https://www.googletagservices.com/activeview/js/current/osd.js:6:70123
+Xh@https://www.googletagservices.com/activeview/js/current/osd.js:6:69373
+@https://www.googletagservices.com/activeview/js/current/osd.js:6:74016
+ae/<@https://www.googletagservices.com/activeview/js/current/osd.js:6:26634
+Ld/<@https://www.googletagservices.com/activeview/js/current/osd.js:6:23902
+ae@https://www.googletagservices.com/activeview/js/current/osd.js:6:26751
+he@https://www.googletagservices.com/activeview/js/current/osd.js:6:28662
+@https://www.googletagservices.com/activeview/js/current/osd.js:6:73953
+@https://www.googletagservices.com/activeview/js/current/osd.js:6:74176
+
+1622528845971	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1622528845987	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.softwaretestinghelp.com/wp-content/plugins/mtouch-quiz/script.js?ver=3.1.3, line 78: unreachable code after return statement
+1622529592719	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://www.softwaretestinghelp.com/wp-content/plugins/mtouch-quiz/script.js?ver=3.1.3, line 78: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+1622534732232	Marionette	INFO	Stopped listening on port 53106
+2534601573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilen1oQsq"
+1622534602082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622534605326	Marionette	INFO	Listening on port 64919
+1622534605701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/avi2wei90kc5gps9qiqcn0e73, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ey1bwyhajzuzu9mri4cd5ervj, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/72iho675ns305qwwqzr8vmm41, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/f28lv4qlec0zkknzl28cvtf9c, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1r9upvu085ml3p2wpk84mtwx0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2z6u5626erpqr7x9m0sq91rsx, line 6: unreachable code after return statement
+1622534731193	Marionette	INFO	Stopped listening on port 64919
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
