@@ -33,13 +33,13 @@ class Linkedin:
 		workbook = xlsxwriter.Workbook(f'{rnd}.xlsx')
 		worksheet = workbook.add_worksheet()
 
-		worksheet.write(f'F1', 'Job Description')
-		worksheet.write(f'B1', 'Job Location')
-		worksheet.write(f'C1', 'Job level')
-		worksheet.write(f'D1', 'Job Function')
-		worksheet.write(f'E1', 'Company')
-		worksheet.write(f'A1', 'Applicants')
-		res = []
+		worksheet.write(f'A1', 'Company')
+		worksheet.write(f'B1', 'Job Description')
+		worksheet.write(f'C1', 'Location')
+		worksheet.write(f'D1', 'Job Applied')
+		worksheet.write(f'E1', 'Job Level')
+		worksheet.write(f'F1', 'Job Function')
+
 		items = self.driver.find_elements_by_class_name('artdeco-entity-lockup__title')
 		jobs = [jobs.get_attribute('id') for jobs in items]
 		for job in jobs:
