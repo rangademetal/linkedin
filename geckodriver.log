@@ -221,3 +221,26 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/da1968bnh9w1g7wc5s3wb96xo
 console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
 console.error: (new TypeError("node is null", "resource://devtools/server/actors/layout.js", 502))
 JavaScript warning: https://static-exp1.licdn.com/sc/h/5ru1jxidocausm20a1d211aoy, line 6: unreachable code after return statement
+1622489750028	Marionette	INFO	Stopped listening on port 54261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofile9yzOJ8"
+1622488978216	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622488981027	Marionette	INFO	Listening on port 64154
+1622488981225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://static-exp1.licdn.com/sc/h/avi2wei90kc5gps9qiqcn0e73, line 1: Error: GoogleOneTapError display: unknown_reason
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static-exp1.licdn.com/sc/h/8k73nzb71xd413wcy4boko39j, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/bls6gykhv4is1bim9exxuyh6m, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/1qgrdrwcva8aly4ck43b4er9o, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/6qqs3svdwghh67bk9swwukcqx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/da1968bnh9w1g7wc5s3wb96xo, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5ru1jxidocausm20a1d211aoy, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/3ftdhg4pppya4orjywsz2wrfx, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/eta79eqhd5jikwqd45mlu34x5, line 6: unreachable code after return statement
+JavaScript error: , line 0: uncaught exception: Object
