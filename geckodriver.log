@@ -1074,3 +1074,24 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy
 JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
 1622581064767	Marionette	INFO	Stopped listening on port 64041
+1622581075745	geckodriver	INFO	Listening on 127.0.0.1:64240
+1622581078772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAITUT~1\\AppData\\Local\\Temp\\rust_mozprofilew1MLBF"
+1622581079162	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622581081563	Marionette	INFO	Listening on port 64248
+1622581081906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/dqou6w4yjbtya506w6lnpj9u9, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/2ztw8woybt9w1y1v7b555dznb, line 3713: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/ds4wfmnoksd9wr4kc8qcb74nm, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/5w7qbyexmw5ypfy6tsh1vlabf, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/64flwq81kt46kidawcub6je7g, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/cbelaelq0odkzmizd9vyp64x0, line 6: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/d7gpgkwwje1bheq3nmmn0ehhy, line 6: unreachable code after return statement
+1622581364173	Marionette	INFO	Stopped listening on port 64248
